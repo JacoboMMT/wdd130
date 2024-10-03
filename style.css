@@ -3,6 +3,10 @@
     --secundary-color : rgb(246, 251, 255);
     }
 
+li {
+        list-style : none;
+}
+
 nav {
     background-color: steelblue;
     padding: 10px;
