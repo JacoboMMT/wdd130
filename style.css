@@ -1,6 +1,6 @@
 :root {
-    --primary-color : steelblue;
-    --secundary-color : rgb(246, 251, 255);
+    --primary-color : #444;
+    --secundary-color : rgb(115, 201, 162);
     }
 
 li {
@@ -60,7 +60,7 @@ main img {
         margin : 1rem;
         border : var(--secundary-color) solid 1px;
         padding : 1rem;
-        background-color : steelblue;
+        background-color : #cd84a5;
         color : var(--secundary-color);
         border-radius : 10px;
         }
