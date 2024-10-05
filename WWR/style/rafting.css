@@ -1,11 +1,11 @@
 :root {
-    --primary-color: #144389;
-    --secondary-color: #1B3172;
-    --accent1-color: 206, 213, 227; /*#CED5E3;*/
-    --accent2-color: 28, 63, 128; /*#1C3F80; */
+    --primary-color: #bfd8bd;
+    --secondary-color: #a2d2ff;
+    --accent1-color: 206, 213, 227; /*#fefae0;*/
+    --accent2-color: 28, 63, 128; /*#cfcfcd; */
 
-    --heading-font: "Oswald", arial;
-    --paragraph-font: "Open Sans", sans-serif;
+    --heading-font: "Readex pro", sans-serif;
+    --paragraph-font: "Amirir", sans-serif;
 
     --nav-background-color: #CED5E3;
     --nav-link-color: #1C3F80;
